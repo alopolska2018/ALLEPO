@@ -7,6 +7,6 @@
   <li stlye="color:green;">[+] AUTOLINE.COM.PL</li> 
   <li stlye="color:green;">[+] TRAKTORPOOL.PL</li>
   <li stlye="color:green;">[+] GRATKA.PL</li>
-  <listlye="color:green;">[+] MASCUS.PL</li>
+  <li stlye="color:green;">[+] MASCUS.PL</li>
   <li stlye="color:green;">[+] OLX.PL </li>
 
