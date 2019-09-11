@@ -1,0 +1,14 @@
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\bin\Debug\PHONE_RESEARCH_NEW.exe.config
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\bin\Debug\PHONE_RESEARCH_NEW.exe
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\bin\Debug\PHONE_RESEARCH_NEW.pdb
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\bin\Debug\HtmlAgilityPack.dll
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\bin\Debug\HtmlAgilityPack.xml
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\obj\Debug\PHONE_RESEARCH_NEW.csprojAssemblyReference.cache
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\obj\Debug\PHONE_RESEARCH_NEW.Properties.Resources.resources
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\obj\Debug\PHONE_RESEARCH_NEW.csproj.GenerateResource.cache
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\obj\Debug\PHONE_RESEARCH_NEW.csproj.CoreCompileInputs.cache
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\obj\Debug\PHONE_RESEARCH_NEW.csproj.CopyComplete
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\obj\Debug\PHONE_RESEARCH_NEW.exe
+C:\Users\krx\source\repos\PHONE_RESEARCH_NEW\PHONE_RESEARCH_NEW\obj\Debug\PHONE_RESEARCH_NEW.pdb
